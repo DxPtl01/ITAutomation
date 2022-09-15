@@ -1,4 +1,4 @@
-s=list(input().split(" ")
+s=list(input().split(" "))
 for i in range(0,len(s)):
     l=list(s[i])
     for j in range(0,len(l)):
