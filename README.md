@@ -1,2 +1,4 @@
 # ITAutomation
-I am editing the README file. Adding some more details about the project description.
+#Automating Real-World Tasks with Python
+
+It's one of the module of the capstone project under the Professional certification.
